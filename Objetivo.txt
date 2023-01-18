@@ -1,0 +1,13 @@
+Api para la gestion de tareas usando Swagger y JWT
+
+- Marcar con "x" las tareas realizadas
+
+1.[x] Activar entorno virtual
+2.[x] Crear proyecto Django
+3. [x] Instalar y configurar django-rest-framework
+4.[x] Instalar y configurar drf_spectacular
+5.[x] Agregar Modelos
+6.[] Agregar Serializadores
+7.[] Agregar vistas
+8.[] Agregar URLs
+9.[x] Agregar y configurar djangorestframework-simplejwt
